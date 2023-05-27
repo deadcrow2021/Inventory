@@ -26,6 +26,6 @@ while True:
                     
 
     except Exception as e:
-            print(str(e))
+        print(str(e))
     
     time.sleep(1)
